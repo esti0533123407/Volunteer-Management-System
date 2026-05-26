@@ -1,0 +1,34 @@
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\bin\Debug\net9.0\DTOs.deps.json
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\bin\Debug\net9.0\DTOs.dll
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\bin\Debug\net9.0\DTOs.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\obj\Debug\net9.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\obj\Debug\net9.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\obj\Debug\net9.0\DTOs.AssemblyInfo.cs
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\obj\Debug\net9.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\obj\Debug\net9.0\DTOs.sourcelink.json
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\obj\Debug\net9.0\DTOs.dll
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\obj\Debug\net9.0\refint\DTOs.dll
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\obj\Debug\net9.0\DTOs.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\DTOs\obj\Debug\net9.0\ref\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\DTOs\bin\Debug\net9.0\DTOs.deps.json
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\DTOs\bin\Debug\net9.0\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\DTOs\bin\Debug\net9.0\DTOs.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\DTOs\obj\Debug\net9.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\DTOs\obj\Debug\net9.0\DTOs.AssemblyInfoInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\DTOs\obj\Debug\net9.0\DTOs.AssemblyInfo.cs
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\DTOs\obj\Debug\net9.0\DTOs.csproj.CoreCompileInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\DTOs\obj\Debug\net9.0\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\DTOs\obj\Debug\net9.0\refint\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\DTOs\obj\Debug\net9.0\DTOs.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\DTOs\obj\Debug\net9.0\ref\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\DTOs\bin\Debug\net9.0\DTOs.deps.json
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\DTOs\bin\Debug\net9.0\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\DTOs\bin\Debug\net9.0\DTOs.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\DTOs\obj\Debug\net9.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\DTOs\obj\Debug\net9.0\DTOs.AssemblyInfoInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\DTOs\obj\Debug\net9.0\DTOs.AssemblyInfo.cs
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\DTOs\obj\Debug\net9.0\DTOs.csproj.CoreCompileInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\DTOs\obj\Debug\net9.0\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\DTOs\obj\Debug\net9.0\refint\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\DTOs\obj\Debug\net9.0\DTOs.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\DTOs\obj\Debug\net9.0\ref\DTOs.dll

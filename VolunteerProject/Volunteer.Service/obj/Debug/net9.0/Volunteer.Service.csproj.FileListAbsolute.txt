@@ -1,0 +1,52 @@
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\bin\Debug\net9.0\Volunteer.Service.deps.json
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\bin\Debug\net9.0\Volunteer.Service.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\bin\Debug\net9.0\Volunteer.Service.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\bin\Debug\net9.0\DTOs.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\bin\Debug\net9.0\Volunteer.Entities.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\bin\Debug\net9.0\DTOs.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\bin\Debug\net9.0\Volunteer.Entities.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.AssemblyInfo.cs
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.sourcelink.json
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\obj\Debug\net9.0\Voluntee.F9A325C4.Up2Date
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\obj\Debug\net9.0\refint\Volunteer.Service.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Volunteer.Service\obj\Debug\net9.0\ref\Volunteer.Service.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\bin\Debug\net9.0\Volunteer.Service.deps.json
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\bin\Debug\net9.0\Volunteer.Service.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\bin\Debug\net9.0\Volunteer.Service.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\bin\Debug\net9.0\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\bin\Debug\net9.0\Volunteer.Entities.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\bin\Debug\net9.0\DTOs.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\bin\Debug\net9.0\Volunteer.Entities.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.csproj.AssemblyReference.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.AssemblyInfoInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.AssemblyInfo.cs
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.csproj.CoreCompileInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\obj\Debug\net9.0\Voluntee.F9A325C4.Up2Date
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\obj\Debug\net9.0\refint\Volunteer.Service.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Volunteer.Service\obj\Debug\net9.0\ref\Volunteer.Service.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\bin\Debug\net9.0\Volunteer.Service.deps.json
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\bin\Debug\net9.0\Volunteer.Service.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\bin\Debug\net9.0\Volunteer.Service.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\bin\Debug\net9.0\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\bin\Debug\net9.0\Volunteer.Entities.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\bin\Debug\net9.0\DTOs.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\bin\Debug\net9.0\Volunteer.Entities.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.csproj.AssemblyReference.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.AssemblyInfoInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.AssemblyInfo.cs
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.csproj.CoreCompileInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\obj\Debug\net9.0\Voluntee.F9A325C4.Up2Date
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\obj\Debug\net9.0\refint\Volunteer.Service.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\obj\Debug\net9.0\Volunteer.Service.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Volunteer.Service\obj\Debug\net9.0\ref\Volunteer.Service.dll

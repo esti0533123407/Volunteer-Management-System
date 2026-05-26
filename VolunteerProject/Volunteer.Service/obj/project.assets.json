@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTOs.dll": {}
+        }
+      },
+      "Volunteer.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "DTOs": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Volunteer.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Volunteer.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DTOs/1.0.0": {
+      "type": "project",
+      "path": "../DTOs/DTOs.csproj",
+      "msbuildProject": "../DTOs/DTOs.csproj"
+    },
+    "Volunteer.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Volunteer.Entities/Volunteer.Entities.csproj",
+      "msbuildProject": "../Volunteer.Entities/Volunteer.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "DTOs >= 1.0.0",
+      "Volunteer.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Owner\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Owner\\Downloads\\פרויקט C#\\VolunteerProject\\Volunteer.Service\\Volunteer.Service.csproj",
+      "projectName": "Volunteer.Service",
+      "projectPath": "C:\\Users\\Owner\\Downloads\\פרויקט C#\\VolunteerProject\\Volunteer.Service\\Volunteer.Service.csproj",
+      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Owner\\Downloads\\פרויקט C#\\VolunteerProject\\Volunteer.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\Owner\\Downloads\\פרויקט C#\\VolunteerProject\\DTOs\\DTOs.csproj": {
+              "projectPath": "C:\\Users\\Owner\\Downloads\\פרויקט C#\\VolunteerProject\\DTOs\\DTOs.csproj"
+            },
+            "C:\\Users\\Owner\\Downloads\\פרויקט C#\\VolunteerProject\\Volunteer.Entities\\Volunteer.Entities.csproj": {
+              "projectPath": "C:\\Users\\Owner\\Downloads\\פרויקט C#\\VolunteerProject\\Volunteer.Entities\\Volunteer.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

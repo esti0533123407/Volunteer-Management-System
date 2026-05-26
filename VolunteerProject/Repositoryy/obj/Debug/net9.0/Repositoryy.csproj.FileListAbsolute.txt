@@ -1,0 +1,58 @@
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Repositoryy.deps.json
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Repositoryy.runtimeconfig.json
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Repositoryy.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Repositoryy.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\DTOs.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\DTOs.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfo.cs
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.sourcelink.json
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Reposito.169D9CCE.Up2Date
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\refint\Repositoryy.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.genruntimeconfig.cache
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\ref\Repositoryy.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.deps.json
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.runtimeconfig.json
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\DTOs.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.AssemblyReference.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.GeneratedMSBuildEditorConfig.editorconfig
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfoInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfo.cs
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.CoreCompileInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Reposito.169D9CCE.Up2Date
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\refint\Repositoryy.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.genruntimeconfig.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\ref\Repositoryy.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\bin\Debug\net9.0\Repositoryy.deps.json
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\bin\Debug\net9.0\Repositoryy.runtimeconfig.json
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\bin\Debug\net9.0\Repositoryy.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\bin\Debug\net9.0\Repositoryy.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\bin\Debug\net9.0\DTOs.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\bin\Debug\net9.0\DTOs.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.AssemblyReference.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\obj\Debug\net9.0\Repositoryy.GeneratedMSBuildEditorConfig.editorconfig
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfoInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfo.cs
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.CoreCompileInputs.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\obj\Debug\net9.0\Reposito.169D9CCE.Up2Date
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\obj\Debug\net9.0\Repositoryy.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\obj\Debug\net9.0\refint\Repositoryy.dll
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\obj\Debug\net9.0\Repositoryy.pdb
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\obj\Debug\net9.0\Repositoryy.genruntimeconfig.cache
+D:\תיכנות\מתקדםC#\.NET\פרויקט net\Repositoryy\obj\Debug\net9.0\ref\Repositoryy.dll

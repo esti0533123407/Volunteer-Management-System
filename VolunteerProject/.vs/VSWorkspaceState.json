@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Repositoryy",
+    "\\Volunteer.Api",
+    "\\Volunteer.Api\\Controllers",
+    "\\Volunteer.Api\\obj",
+    "\\Volunteer.Entities",
+    "\\Volunteer.Service"
+  ],
+  "SelectedNode": "\\Volunteer.Api\\Controllers\\VolunteersController.cs",
+  "PreviewInSolutionExplorer": false
+}

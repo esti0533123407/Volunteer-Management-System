@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 C#\\VolunteerProject\\Volunteer.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|c:\\users\\owner\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 c#\\volunteerproject\\volunteer.api\\controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|solutionrelative:controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|c:\\users\\owner\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 c#\\volunteerproject\\volunteer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|c:\\users\\owner\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 c#\\volunteerproject\\volunteer.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|c:\\users\\owner\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 c#\\volunteerproject\\volunteer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\IVolunteerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\Migrations\\20260412142817_CreateManyToMany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VolunteerDb/True/SqlTable/dbo.Volunteers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\\u05E7\u05D5\u05E8\u05E1 .NET CORE\\Volunteer.Entities\\MyVolunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Service\\VolunteerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\IVolunteerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\VolunteerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Service\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\Skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\MyVolunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\DTOs\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\IVolunteerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Repositoryy\\VolunteerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Repositoryy\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Service\\VolunteerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Service\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\IVolunteerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\MyVolunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\Skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Service\\JwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\DTOs\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IVolunteerRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\IVolunteerRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\IVolunteerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:41:28.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 C#\\VolunteerProject\\Volunteer.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 C#\\VolunteerProject\\Volunteer.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:01:52.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VolunteersController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 C#\\VolunteerProject\\Volunteer.Api\\Controllers\\VolunteersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VolunteersController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 C#\\VolunteerProject\\Volunteer.Api\\Controllers\\VolunteersController.cs",
+              "RelativeToolTip": "Controllers\\VolunteersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T00:22:07.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 C#\\VolunteerProject\\Volunteer.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 C#\\VolunteerProject\\Volunteer.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T14:18:13.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VolunteerRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Repositoryy\\VolunteerRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Repositoryy\\VolunteerRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwD8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:38:26.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Repositoryy\\DataContext.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Repositoryy\\DataContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:38:23.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VolunteerService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Service\\VolunteerService.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Service\\VolunteerService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA8wEcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:42:39.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Service\\MappingProfile.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Service\\MappingProfile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:42:35.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IVolunteerService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\IVolunteerService.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\IVolunteerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T13:48:58.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\LoginDto.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:43:30.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyVolunteer.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\MyVolunteer.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\MyVolunteer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:43:27.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\Skill.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Entities\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:42:08.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Service\\JwtService.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\Volunteer.Service\\JwtService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:42:15.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\DTOs\\Class1.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\DTOs\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T13:20:06.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVolunteerService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\IVolunteerService.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\IVolunteerService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T14:08:16.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VolunteerRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\VolunteerRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\VolunteerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T20:33:07.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Owner\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 C#\\VolunteerProject\\Volunteer.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Owner\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 C#\\VolunteerProject\\Volunteer.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-11T20:49:25.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IVolunteerRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\IVolunteerRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\IVolunteerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T20:33:34.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VolunteerService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Service\\VolunteerService.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Service\\VolunteerService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswFIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T14:13:12.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260412142817_CreateManyToMany.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\Migrations\\20260412142817_CreateManyToMany.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\Migrations\\20260412142817_CreateManyToMany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T14:28:17.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Service\\MappingProfile.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Service\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T20:58:43.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\Skill.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T13:40:59.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyVolunteer.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\MyVolunteer.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\MyVolunteer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T13:42:21.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\LoginDto.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T20:33:54.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\DTOs\\Class1.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\DTOs\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T20:32:34.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\DataContext.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T20:50:36.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\SQLQuery1.sql",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-11T21:27:40.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\SQLQuery2.sql",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05DE\u05EA\u05E7\u05D3\u05DDC#\\.NET\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 net\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-11T21:39:53.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Volunteers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VolunteerDb/True/SqlTable/dbo.Volunteers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VolunteerDb/True/SqlTable/dbo.Volunteers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-19T19:14:40.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyVolunteer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u05E7\u05D5\u05E8\u05E1 .NET CORE\\Volunteer.Entities\\MyVolunteer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\pc\\Desktop\\\u05E7\u05D5\u05E8\u05E1 .NET CORE\\Volunteer.Entities\\MyVolunteer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u05E7\u05D5\u05E8\u05E1 .NET CORE\\Volunteer.Entities\\MyVolunteer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\pc\\Desktop\\\u05E7\u05D5\u05E8\u05E1 .NET CORE\\Volunteer.Entities\\MyVolunteer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:18:57.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
